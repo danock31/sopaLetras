@@ -11,7 +11,7 @@ public class SopadeLetras {
             System.out.println("Sopa de Letras");
             System.out.println("1.Jugar");
             System.out.println("");
-            System.out.println("Seleccione una opción: ");
+            System.out.println("Seleccione una opcion: ");
             opcion = sc.nextInt();
             System.out.println("");
             System.out.println("---------------------");
