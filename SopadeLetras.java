@@ -69,7 +69,6 @@ System.out.println("");
 
 			 nums[2][1]="C";
 			 nums[3][1]="A";
-			 nums[4][1]="B";
 			 nums[5][1]="A";
 			 nums[6][1]="L";
 			 nums[7][1]="L";
